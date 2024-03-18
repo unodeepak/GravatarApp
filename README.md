@@ -6,6 +6,7 @@ To run the application using Docker, follow these steps:
     ```bash
     docker build -t your-image-name .
     ```
+    
 
 2. Run the Docker container:
     ```bash
